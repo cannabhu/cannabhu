@@ -36,6 +36,13 @@
   <a href="https://github.com/Nuellity/e-commerce-fullstack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuellity&repo=e-commerce-fullstack" />
 </a>
+  </a>
+  <a href="https://github.com/Nuellity/metaverse-landing-page">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuellity&repo=metaverse-landing-page" />
+</a>
+<a href="https://github.com/Nuellity/Threejs-AI-React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuellity&repo=Threejs-AI-React" />
+</a>
 </p>
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuellity" />
