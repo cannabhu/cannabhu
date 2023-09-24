@@ -3,7 +3,7 @@
 
 - 💻 Currently working on [Ayaba Store](https://github.com/Nuellity/e-commerce-fullstack) using React.
 - 📝 I am currently learning Python.
-- 🧘🏻‍♀️ I love music, soccer and gaming.
+- 🧘🏻‍♀️ I love music, football and gaming.
 - 📫 You can connect with me on [Twitter](https://twitter.com/emmabhu) and [LinkedIn](https://www.linkedin.com/in/emmanuelabhulimhen/).
 
 <p align="center">
