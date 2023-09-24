@@ -45,8 +45,8 @@
 </a>
 </p>
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuellity" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuellity&layout=compact&langs_count=8&card_width=320" />
+  <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuellity" />
+  <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuellity&layout=compact&langs_count=8&card_width=320" />
 </p>
 
 ![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
