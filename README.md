@@ -5,7 +5,7 @@
 - 📝 I am currently learning Python.
 - 🧘🏻‍♀️ I love music, football and gaming.
 - 📫 You can connect with me on [Twitter](https://twitter.com/emmabhu) and [LinkedIn](https://www.linkedin.com/in/emmanuelabhulimhen/).
-
+---
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
@@ -26,8 +26,7 @@
 <img alt="Testing Library" src="https://img.shields.io/badge/TestingLibrary-%23ffd2ce.svg?style=for-the-badge&logo=testinglibrary&logoColor=140200" />
 </p>
 
-
-
+---
 
 <p align="center">
 <a href="https://github.com/Nuellity/web3-lotterydapp">
@@ -48,5 +47,19 @@
   <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuellity" />
   <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuellity&layout=compact&langs_count=8&card_width=220" />
 </p>
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#3418](https://github.com/hoppscotch/hoppscotch/pull/3418) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 💪 Opened PR [#3416](https://github.com/hoppscotch/hoppscotch/pull/3416) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 🗣 Commented on [#113](https://github.com/jamesgeorge007/github-activity-readme/pull/113#issuecomment-1741287374) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🚀 Published release [v0.4.3](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.3) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#113](https://github.com/jamesgeorge007/github-activity-readme/pull/113#issuecomment-1740783108) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+<!--END_SECTION:activity-->
+
+---
 
 ![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
