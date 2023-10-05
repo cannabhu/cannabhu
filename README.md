@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3418](https://github.com/hoppscotch/hoppscotch/pull/3418) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 💪 Opened PR [#3416](https://github.com/hoppscotch/hoppscotch/pull/3416) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#113](https://github.com/jamesgeorge007/github-activity-readme/pull/113#issuecomment-1741287374) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🚀 Published release [v0.4.3](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.3) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#113](https://github.com/jamesgeorge007/github-activity-readme/pull/113#issuecomment-1740783108) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#124](https://github.com/Nuellity/e-commerce-fullstack/pull/124) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
+2. 💪 Opened PR [#124](https://github.com/Nuellity/e-commerce-fullstack/pull/124) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
+3. 🎉 Merged PR [#123](https://github.com/Nuellity/e-commerce-fullstack/pull/123) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
+4. 💪 Opened PR [#123](https://github.com/Nuellity/e-commerce-fullstack/pull/123) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
+5. 🎉 Merged PR [#122](https://github.com/Nuellity/e-commerce-fullstack/pull/122) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
 <!--END_SECTION:activity-->
 
 ---
