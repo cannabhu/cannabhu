@@ -10,8 +10,7 @@ jobs:
     permissions:
       contents: write
 
-    steps:
-      - name: GitHub - Activity - Readme       
+    steps:     
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@v0.4.0
         env:
