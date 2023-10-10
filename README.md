@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/Nuellity/e-commerce-fullstack/pull/124) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
-2. 💪 Opened PR [#124](https://github.com/Nuellity/e-commerce-fullstack/pull/124) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
-3. 🎉 Merged PR [#123](https://github.com/Nuellity/e-commerce-fullstack/pull/123) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
-4. 💪 Opened PR [#123](https://github.com/Nuellity/e-commerce-fullstack/pull/123) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
-5. 🎉 Merged PR [#122](https://github.com/Nuellity/e-commerce-fullstack/pull/122) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
+1. ❗ Opened issue [#8290](https://github.com/EddieHubCommunity/support/issues/8290) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🎉 Merged PR [#124](https://github.com/Nuellity/e-commerce-fullstack/pull/124) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
+3. 💪 Opened PR [#124](https://github.com/Nuellity/e-commerce-fullstack/pull/124) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
+4. 🎉 Merged PR [#123](https://github.com/Nuellity/e-commerce-fullstack/pull/123) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
+5. 💪 Opened PR [#123](https://github.com/Nuellity/e-commerce-fullstack/pull/123) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
 <!--END_SECTION:activity-->
 
 ---
