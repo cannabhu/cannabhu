@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8290](https://github.com/EddieHubCommunity/support/issues/8290) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#124](https://github.com/Nuellity/e-commerce-fullstack/pull/124) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
-3. 💪 Opened PR [#124](https://github.com/Nuellity/e-commerce-fullstack/pull/124) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
-4. 🎉 Merged PR [#123](https://github.com/Nuellity/e-commerce-fullstack/pull/123) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
-5. 💪 Opened PR [#123](https://github.com/Nuellity/e-commerce-fullstack/pull/123) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
+1. 🗣 Commented on [#3185](https://github.com/EddieHubCommunity/open-source-practice/issues/3185) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
+2. 💪 Opened PR [#3185](https://github.com/EddieHubCommunity/open-source-practice/pull/3185) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
+3. ❗ Opened issue [#8290](https://github.com/EddieHubCommunity/support/issues/8290) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🎉 Merged PR [#124](https://github.com/Nuellity/e-commerce-fullstack/pull/124) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
+5. 💪 Opened PR [#124](https://github.com/Nuellity/e-commerce-fullstack/pull/124) in [Nuellity/e-commerce-fullstack](https://github.com/Nuellity/e-commerce-fullstack)
 <!--END_SECTION:activity-->
 
 ---
