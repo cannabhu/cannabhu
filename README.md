@@ -2,7 +2,7 @@
 
 
 - 💻 Currently working on [Ayaba Store](https://github.com/Nuellity/e-commerce-fullstack) using React.
-- 📝 I am currently learning Python.
+- 📝 I am currently learning Google Cloud DevOps Engineer Course.
 - 🧘🏻‍♀️ I love music, football and gaming.
 - 📫 You can connect with me on [Twitter](https://twitter.com/emmabhu) and [LinkedIn](https://www.linkedin.com/in/emmanuelabhulimhen/).
 ---
@@ -41,6 +41,9 @@
 </a>
 <a href="https://github.com/Nuellity/Threejs-AI-React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuellity&repo=Threejs-AI-React" />
+</a>
+<a href="https://github.com/Nuellity/jobapp-react-native">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuellity&repo=jobapp-react-native" />
 </a>
 </p>
 <p align="center">
