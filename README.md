@@ -1,7 +1,7 @@
 ![Emmanuel header image](https://github.com/Nuellity/e-commerce-fullstack/assets/108362417/dad667b1-ea02-4448-91ef-a935e55df612)
 
 
-- 💻 Currently working on [Ayaba Food Delivery App]([https://github.com/Nuellity/e-commerce-fullstack](https://github.com/Nuellity/FoodDelivery-ReactNative)) using React.
+- 💻 Currently working on [Ayaba Food Delivery App](https://github.com/Nuellity/FoodDelivery-ReactNative) using React.
 - 📝 I am currently learning Machine Learning.
 - 🧘🏻‍♀️ I love music, football and gaming.
 - 📫 You can connect with me on [Twitter](https://twitter.com/emmabhu) and [LinkedIn](https://www.linkedin.com/in/emmanuelabhulimhen/).
