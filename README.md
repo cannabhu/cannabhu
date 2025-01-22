@@ -1,8 +1,8 @@
 ![Emmanuel header image](https://github.com/Nuellity/e-commerce-fullstack/assets/108362417/dad667b1-ea02-4448-91ef-a935e55df612)
 
 
-- 💻 Currently working on [Ayaba Food Delivery App](https://github.com/Nuellity/FoodDelivery-ReactNative) using React.
-- 📝 I am currently learning Machine Learning.
+- 💻 Currently working on [Ayaba Food Delivery App](https://github.com/Nuellity/FoodDelivery-ReactNative) using React Native.
+- 📝 Top Rated Freelancer on Upwork.
 - 🧘🏻‍♀️ I love music, football and gaming.
 - 📫 You can connect with me on [Twitter](https://twitter.com/emmabhu) and [LinkedIn](https://www.linkedin.com/in/emmanuelabhulimhen/).
 ---
@@ -28,30 +28,7 @@
 
 ---
 
-<p align="center">
-<a href="https://github.com/Nuellity/web3-lotterydapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuellity&repo=web3-lotterydapp" />
-</a>
-  <a href="https://github.com/Nuellity/e-commerce-fullstack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuellity&repo=e-commerce-fullstack" />
-</a>
-  </a>
-  <a href="https://github.com/Nuellity/metaverse-landing-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuellity&repo=metaverse-landing-page" />
-</a>
-<a href="https://github.com/Nuellity/Threejs-AI-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuellity&repo=Threejs-AI-React" />
-</a>
-<a href="https://github.com/Nuellity/jobapp-react-native">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nuellity&repo=jobapp-react-native" />
-</a>
-</p>
-<p align="center">
-  <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuellity" />
-  <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuellity&layout=compact&langs_count=8&card_width=220" />
-</p>
 
----
 
 ### :zap: Recent Activity
 
