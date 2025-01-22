@@ -4,7 +4,7 @@
 - 💻 Currently working on [Ayaba Food Delivery App](https://github.com/Nuellity/FoodDelivery-ReactNative) using React Native.
 - 📝 Top Rated Freelancer on Upwork.
 - 🧘🏻‍♀️ I love music, football and gaming.
-- 📫 You can connect with me on [Twitter](https://twitter.com/emmabhu) and [LinkedIn](https://www.linkedin.com/in/emmanuelabhulimhen/).
+- 📫 You can connect with me on [Twitter](https://twitter.com/emmabhu) , [LinkedIn](https://www.linkedin.com/in/emmanuelabhulimhen/) and [Upwork](https://www.upwork.com/freelancers/~014d44d85dc08118fd?mp_source=share).
 ---
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
